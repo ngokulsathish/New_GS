@@ -39,3 +39,4 @@
       name: "{{site_name}}"
       state: restarted
       physical_path: "{{ ansible_site_path }}"
+     
